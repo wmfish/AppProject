@@ -1,2 +1,3 @@
-<b>Android Studio App Project</b><br>
+Android Studio App Project
+===========================
 More of an excercise in git than anything else...
