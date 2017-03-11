@@ -1,2 +1,2 @@
-<title><b>Android Studio App Project</b><br></title>
+<b>Android Studio App Project</b><br>
 More of an excercise in git than anything else...
